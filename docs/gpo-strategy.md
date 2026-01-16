@@ -23,4 +23,4 @@ Brief explanation.
 ## Remote Desktop Access Control
 Brief explanation.
 
-![RDP GPO](../screenshots/rdp-gpo.png)
+![RDP GPO](../screenshots/RDP-GPO.png)
