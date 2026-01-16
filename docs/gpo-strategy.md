@@ -18,7 +18,7 @@ Brief explanation.
 ## Drive Mapping Example
 Brief explanation.
 
-![Drive Mapping GPO]()
+![Drive Mapping GPO](../screenshots/mapping-GPO.png)
 
 ## Remote Desktop Access Control
 Brief explanation.
