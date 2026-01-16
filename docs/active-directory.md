@@ -8,7 +8,7 @@ This document describes the Active Directory structure used in the lab, includin
 - Separate OUs exist for workstations and servers
 - OU design allows targeted Group Policy application
 
-![OU Structure](VirtualBox_Active Directory Server Lab_16_01_2026_10_00_25.png)
+![OU Structure](../screenshots/ou-structure.png)
 
 ## Security Groups
 - Security groups represent job roles
