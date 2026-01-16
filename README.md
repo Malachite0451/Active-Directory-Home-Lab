@@ -87,7 +87,7 @@ This workflow demonstrates how support staff can effectively diagnose and resolv
 
 
 ## Documentation
-Links to detailed design and configuration notes.
+Detailed design and configuration notes are available in the `/docs` directory.
 
 ## Skills Demonstrated
 - Active Directory domain administration and user management  
