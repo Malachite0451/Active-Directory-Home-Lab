@@ -24,4 +24,21 @@ How support users access workstations and troubleshoot issues.
 Links to detailed design and configuration notes.
 
 ## Skills Demonstrated
-Bullet list of skills.
+- Active Directory domain administration and user management  
+- Organizational Unit (OU) design and delegation  
+- Role-Based Access Control (RBAC) using security groups  
+- Group Policy Object (GPO) creation, scoping, and troubleshooting  
+- Domain password and account lockout policy configuration  
+- Centralized drive mapping using Group Policy Preferences  
+- NTFS permissions and SMB file share management  
+- Windows File Server deployment and administration  
+- DNS configuration and domain name resolution  
+- DHCP server configuration and scope management  
+- Windows Server domain joining and role installation  
+- Secure Remote Desktop (RDP) access configuration via Group Policy  
+- Delegated Event Viewer log access using least-privilege principles  
+- Workstation and server access separation (support vs admin roles)  
+- Network connectivity troubleshooting (DNS, SMB, authentication)  
+- Remote desktop support workflows and user troubleshooting  
+- Enterprise-style security hardening and policy enforcement  
+- Documentation and technical communication of system design  
