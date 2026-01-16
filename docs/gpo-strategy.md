@@ -13,12 +13,12 @@ Group Policy is used to enforce security settings, standardize workstation behav
 ## Workstation Security Example
 Brief explanation.
 
-![Screen Lock GPO](../screenshots/screen-lock-gpo.png)
+![Screen Lock GPO](../screenshots/screen-lock-GPO.png)
 
 ## Drive Mapping Example
 Brief explanation.
 
-![Drive Mapping GPO](../screenshots/drive-mapping-gpo.png)
+![Drive Mapping GPO](../screenshots/drive-mapping-GPO.png)
 
 ## Remote Desktop Access Control
 Brief explanation.
