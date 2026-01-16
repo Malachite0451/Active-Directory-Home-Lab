@@ -6,7 +6,7 @@ A dedicated file server provides centralized file storage for the domain. Access
 ## Folder Structure
 Departmental folders are organized under a single shared root directory to simplify management and permissions.
 
-![File Share Folder Structure](../screenshots/file-shares.png)
+![File Share Folder Structure](../screenshots/files-shares.png)
 
 - Each department has a dedicated folder
 - The shared root directory is not exposed directly to users
