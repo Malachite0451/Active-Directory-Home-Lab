@@ -8,7 +8,7 @@ Group Policy is used to enforce security settings, standardize workstation behav
 - GPOs are scoped to Organizational Units
 - Default Domain Policy is reserved for authentication settings
 
-![GPO List](/screenshots/gpo-full-list.png)
+![GPO List](../screenshots/GPO-full-list.png)
 
 ## Workstation Security Example
 Brief explanation.
