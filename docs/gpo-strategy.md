@@ -9,6 +9,7 @@ Group Policy Objects are organized by function rather than grouped into a single
 - Each GPO has a single, clearly defined purpose  
 - Policies are scoped to Organizational Units rather than applied domain-wide  
 - Default Domain Policy is reserved exclusively for authentication-related settings.
+  
 ![GPO List](../screenshots/GPO-full-list.png)
 
 ## Workstation Security Example
