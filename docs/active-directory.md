@@ -1,7 +1,7 @@
 # Active Directory Design
 
 ## Overview
-This document describes the Active Directory design used in the lab, including Organizational Units, users, and role-based security groups.
+This document outlines the Active Directory design used in the lab, including Organizational Units, users, and role-based security groups.
 
 ## OU Structure
 - Department-based OUs are used for users
