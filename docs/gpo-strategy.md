@@ -35,7 +35,7 @@ Remote Desktop access is controlled using User Rights Assignment through Group P
 - Server access is restricted to IT administrators  
 - Explicit deny policies prevent unauthorized RDP access 
 
-![RDP GPO](../screenshots/RDP-GPO.png)
+![RDP GPO](../screenshots/RDP-Access-GPO.png)
 
 ## Policy Enforcement and Scope
 All policies are linked at the Organizational Unit level to ensure predictable behavior and avoid unintended inheritance. GPO enforcement is used sparingly and only when necessary.
