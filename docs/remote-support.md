@@ -6,7 +6,7 @@ The lab includes a remote desktop support workflow designed to mirror real-world
 ## Remote Desktop Access
 Remote Desktop access is centrally managed using Group Policy.
 
-![RDP Access GPO](../screenshots/rdp-GPO.png)
+![RDP Access GPO](../screenshots/RDP-Access-GPO.png)
 
 - Remote Desktop is enabled on workstations via Group Policy
 - Support users are permitted to access workstations only
