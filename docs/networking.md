@@ -22,8 +22,8 @@ The lab uses a single internal network to support domain services, workstation c
 - DHCP is centrally managed on the domain controller
 - A defined scope provides IP addresses to workstations
 - DHCP options assign the correct DNS server and domain name automatically
-
-  ![DHCP Services](../screenshots/dhcp-scope.png)
+  
+![DHCP Services](../screenshots/dhcp-scope.png)
 
 ## Operational Considerations
 - Incorrect DNS configuration is the primary cause of domain connectivity issues
