@@ -8,7 +8,7 @@ Remote Desktop access is centrally managed using Group Policy.
 
 ![RDP Access GPO](../screenshots/RDP-Access-GPO.png)
 
-- Remote Desktop is enabled on workstations via Group Policy
+- Remote Desktop is enabled on domain-joined workstations via Group Policy
 - Support users are permitted to access workstations only
 - Server access is restricted to IT administrators
   
