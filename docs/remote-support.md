@@ -34,5 +34,5 @@ Support users are granted read-only access to Event Viewer logs to assist with t
 1. A user reports an issue with access or system behavior
 2. A support user connects to the workstation using Remote Desktop
 3. Logs are reviewed using Event Viewer to identify errors
-4. Configuration or access issues are resolved
+4. Configuration or access issues are resolved using delegated permissions or centralized policy changes
 5. Changes are applied centrally through Active Directory or Group Policy when required
